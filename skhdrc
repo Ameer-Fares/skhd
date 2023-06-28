@@ -29,9 +29,9 @@ alt - k : yabai -m space --balance
 
 
 # Move focus container to display (use "space" instead of display to move to just per space instead)
-ctrl + shift - z : yabai -m window --display 1 --focus
-ctrl + shift - x : yabai -m window --display 2 --focus
-ctrl + shift - c : yabai -m window --display 3 --focus
+ctrl + shift - x : yabai -m window --display 1 --focus
+ctrl + shift - z : yabai -m window --display 2 --focus
+#ctrl + shift - c : yabai -m window --display 3 --focus
 
 # Move focus container to space
 ctrl + alt - 1 : yabai -m window --space 1 --focus # main
